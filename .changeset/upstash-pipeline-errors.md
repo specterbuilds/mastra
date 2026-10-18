@@ -1,0 +1,1 @@
+---\n'@mastra/loggers': patch\n---\n\nPreserve log batches and report command errors when an Upstash pipeline returns HTTP 200 but Redis rejects a command.
